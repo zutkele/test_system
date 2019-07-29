@@ -1,0 +1,13 @@
+{
+    "name": "zutkele/test_system",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zutkele",
+            "email": "zutautas1996@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
